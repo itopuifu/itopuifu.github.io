@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itopuifu.github.io/KXI/sitemap_index.txt
+Sitemap: https://itopuifu.github.io/Tbl/sitemap_index.txt
+Sitemap: https://itopuifu.github.io/cIe/sitemap_index.txt
+Sitemap: https://itopuifu.github.io/oGI/sitemap_index.txt
